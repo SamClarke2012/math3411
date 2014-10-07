@@ -1,7 +1,8 @@
 math3411
 ========
 
-Maths 3411 lecture slides
+Maths 3411 lecture slides by Thomas Britz
+Printed by Hubert
 
 Thanks for coming here.
 
